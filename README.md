@@ -15,4 +15,4 @@ React.JS
 Angular
 
 ### Let's connect and chat! Find me on the web...
-[LINKEDIN](https://www.linkedin.com/in/kamel-amin/) [GMAIL](k.marzouk.amin@gmail.com) 
+[LINKEDIN](https://www.linkedin.com/in/kamel-amin/) [GMAIL](https://k.marzouk.amin@gmail.com) 
