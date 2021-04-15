@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, there 👋
 
-<!--
-**Kamel-Marzouk/Kamel-Marzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Front-end Developer and I have a passion for Software Development and seek a full of experience and challenges career path. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about devops.
+- ⚡ Available for Freelance projects and part time opportunities.
+
+
+### My skills
+
+HTML5 CSS3 Sass JavaScript Bootstrap
+
+React.JS
+Angular
+
+### Let's connect and chat! Find me on the web...
+[LINKEDIN](https://www.linkedin.com/in/kamel-amin/) [GMAIL](k.marzouk.amin@gmail.com) 
